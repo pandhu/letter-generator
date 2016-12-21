@@ -1,0 +1,24 @@
+{
+  "name": "surat-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gm": "^1.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandhu/letter-generator.git"
+  },
+  "author": "pandhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandhu/letter-generator/issues"
+  },
+  "homepage": "https://github.com/pandhu/letter-generator#readme"
+}
